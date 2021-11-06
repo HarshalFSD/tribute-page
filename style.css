@@ -1,0 +1,28 @@
+#image {
+    width: 100%;
+  height: auto;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+    border: 1px inset black;
+  border-radius: 50%;
+    padding: 15px;
+  }
+  #main {
+    background-color:  #d5f4e6;
+    border-width: 5px;
+      border-style: inset;
+      border-color: gray;
+  }
+  #tribute-info {
+    font-family: "monospace";
+    text-align: justify;
+    
+  }
+  #title {
+    font-family: helvetica;
+    font-size: 27px;
+    border: 5px solid black;
+    
+  }
